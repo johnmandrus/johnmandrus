@@ -12,6 +12,6 @@ Graduate Certificate in Advanced International Affairs
 **Texas A&M University**  
 B.S. Nuclear Engineering  
 
-![](bushschool.png)
+![](logos.png)
 
 ## Projects
