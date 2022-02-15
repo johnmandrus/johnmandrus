@@ -25,11 +25,11 @@ A simple text-based adventure game programmed in python.
 
 ## Writing  
 
-**Foreign Actors in Libya's Conflict: Actions and Interests**  
+[**Foreign Actors in Libya's Conflict: Actions and Interests**](https://github.com/johnmandrus/Writing/blob/master/Foreign%20Actors%20in%20Libya's%20Conflict.pdf)  
 *May 2019*  
 An analysis of post-Arab Spring conflict in Libya and interference by regional, global, and nonstate actors with policy reccomendations.
   
-**Analysis of US-Iranian Nuclear Nonproliferation Policy**  
+[**Analysis of US-Iranian Nuclear Nonproliferation Policy**](https://github.com/johnmandrus/Writing/blob/master/US-Iranian%20Nonproliferation%20Policy.pdf)  
 *May 2018*  
 An analysis of the JCPOA in the context of US-Iranian diplomacy since 1979 with reccomendations for strengthening nonproliferation incentives.
 
