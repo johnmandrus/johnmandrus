@@ -1,5 +1,7 @@
 ## 🚀 About Me
-I'm a quality enginer and UC Berkeley MIDS Student with professional experience in defense manufacturing.
+I do a little bit of everything, and I try to do it as well as possible. I'm a quality engineer with professional experience in defense electronics manufacturing. I'm completing a graduate degree in data science in machine learning with academic experience in object detection and mechanical failure prediction. In past roles I've successfully recruited and hired engineers, organized 200+ person networking events, and helped plan a factory move. In my free time I love to run trails, rock climb, read, and code.  
+
+Above all, I'm a lifelong learner who thrives in fast paced environments and knows how to learn on the job. I've led teams to successful outcomes and believe in the power of influence leadership to get things done.  
 
 ## Education  
 
