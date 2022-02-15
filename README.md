@@ -3,13 +3,13 @@ I'm a quality enginer and UC Berkeley MIDS Student with professional experience 
 
 ## Education  
 
-**University of California Berkeley**    
+[**University of California Berkeley**](https://ischoolonline.berkeley.edu/data-science/)    
 M.S. Information and Data Science    
 
-**Bush School of Government and Public Service**    
+[**Bush School of Government and Public Service**](https://bush.tamu.edu/certificate/caia/overview/#:~:text=The%20Certificate%20in%20Advanced%20International,law%20enforcement%2C%20international%20business%2C%20or)    
 Graduate Certificate in Advanced International Affairs    
   
-**Texas A&M University**    
+[**Texas A&M University**](https://engineering.tamu.edu/nuclear/academics/degrees/undergraduate/bs.html)    
 B.S. Nuclear Engineering   
 
 ## Projects
